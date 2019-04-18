@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018 Endian Technologies
+ * Copyright (c) 2019 Endian Technologies
  *
  * SPDX-License-Identifier: Apache-2.0
  * 
