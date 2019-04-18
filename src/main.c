@@ -1,7 +1,8 @@
-/* main.c - Application main entry point */
-
 /*
  * Copyright (c) 2018 Endian Technologies
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ * 
  */
 
 #include <zephyr/types.h>
